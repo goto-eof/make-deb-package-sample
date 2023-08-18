@@ -1,0 +1,6 @@
+Package: todolist
+Version: 0.1
+Maintainer: Andrei Dodu
+Architecture: all
+Description: TODO List
+Depends:  libgtk-3-0, libblkid1, liblzma5
