@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=TODO List
+GenericName=TODO List
+Exec=/usr/bin/todolist
+Terminal=false
+Icon=/usr/share/icons/todolist-icon.xpm
+Type=Application
+Categories=Application;
+Comment=TODO List.
+StartupWMClass=TODO List
